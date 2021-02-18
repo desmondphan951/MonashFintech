@@ -1,4 +1,5 @@
-# SEA Ltd - Fintech Case Study
+# Unit 1 Homework Assignment: FinTech Case Study
+# SEA Ltd - Fintech Case Study  
 
 ## Overview and Origin
 
